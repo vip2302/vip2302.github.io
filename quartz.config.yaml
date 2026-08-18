@@ -230,7 +230,7 @@ plugins:
     enabled: true
     options:
       links:
-        이메일: "mailto:sanglee@ssu.ac.kr
+        이메일: "mailto:sanglee@ssu.ac.kr"
         GitHub: https://github.com/vip2302
         Discord Community: https://discord.gg/cRFFHYye7t
     layout:
